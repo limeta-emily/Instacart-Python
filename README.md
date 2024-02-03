@@ -57,12 +57,10 @@ The data was analyzed using Python and Juptyer notebook with the following libra
 # Folders
 The project files are divided between the following folders:
 
-● 01 Project Management: Project Brief
+●  Project Management: Project Brief
 
-● 02 Data: Separated into two subfolders Original and Prepared Data. These contain the original data frames and the data frames after they have been cleaned and prepared for analysis respectively. (Data files not uploaded to GitHub due to size.)
+●  Scripts: The Jupyter notebooks containing the coding for the analysis.
 
-● 03 Scripts: The Jupyter notebooks containing the coding for the analysis.
+●  Analysis: The visualizations used for developing and explaining insights.
 
-● 04 Analysis: The visualizations used for developing and explaining insights.
-
-● 05 Sent to Client: The final report presented to stockholders presented in Excel
+●  Sent to Client: The final report presented to stockholders presented in Excel
