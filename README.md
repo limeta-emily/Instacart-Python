@@ -2,7 +2,7 @@
 
 I used Python to wrangle and analyze several datasets for Instacart. I then created a report that communicates my analysis process and my results and recommendations to key business questions from Instacart. Please note that Instachart is a real company however, the contents of the attached project brief have been fabricated for the purpose of this analysis.
 
-#Background
+# Background
 Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. The goal is to analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 
 # Key Questions
