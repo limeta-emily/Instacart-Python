@@ -1,4 +1,4 @@
-# Instachart- Python
+# Instacart- Python
 
 I used Python to wrangle and analyze several datasets for Instacart. I then created a report that communicates my analysis process and my results and recommendations to key business questions from Instacart. Please note that Instachart is a real company however, the contents of the attached project brief have been fabricated for the purpose of this analysis.
 
